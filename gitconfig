@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = s.callault@gmail.com
+	name = sophie callault
